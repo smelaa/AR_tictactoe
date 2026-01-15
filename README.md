@@ -1,4 +1,4 @@
-# ✨ Vibecoded ✨ AR Tic-Tac-Toe
+# AR Tic-Tac-Toe
 
 An augmented reality implementation of the classic Tic-Tac-Toe game using AR.js and A-Frame. Players use physical AR markers to place their moves on a virtual game board overlaid on their camera view.
 
